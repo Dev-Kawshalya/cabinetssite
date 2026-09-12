@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Project Name - Monica';
+$pageTitle = 'Project Name - Cabinets2go';
 include '../header.php';
 ?>
 
@@ -210,7 +210,7 @@ include '../header.php';
                 <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="var(--color-1)" style="margin-bottom: var(--vspace-0_5);"><path d="M10 11h-4v-4h4v4zm-4 4h4v-4h-4v4zm8-4h-4v4h4v-4zm4-4h-4v4h4v-4zm-4 8h4v-4h-4v4zm-8 0h4v-4h-4v4zm16-12v16h-24v-16h24zm-2 2h-20v12h20v-12z"/></svg>
                 <blockquote style="border: none; padding: 0; max-width: 700px; margin: 0 auto;">
                     <p style="font-size: var(--text-lg); font-style: italic; color: var(--color-text-dark); line-height: 1.6;">
-                        "The team at Monica transformed our outdated kitchen into the modern, functional space we've always dreamed of. Their attention to detail and commitment to quality was exceptional. We couldn't be happier with the result."
+                        "The team at Cabinets2go transformed our outdated kitchen into the modern, functional space we've always dreamed of. Their attention to detail and commitment to quality was exceptional. We couldn't be happier with the result."
                     </p>
                     <cite style="display: block; margin-top: var(--vspace-0_5); font-style: normal; font-weight: 600; color: var(--color-text-dark);">
                         — Sarah & Michael Johnson

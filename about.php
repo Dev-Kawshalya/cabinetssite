@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'About Us - Monica';
+$pageTitle = 'About Us - Cabinets2go';
 include 'header.php';
 ?>
 

@@ -9,7 +9,7 @@ define('BASE_URL', 'http://localhost/cabinetssite/');
     ================================================== -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><?php echo isset($pageTitle) ? $pageTitle : 'Monica'; ?></title>
+    <title><?php echo isset($pageTitle) ? $pageTitle : 'Cabinets2go'; ?></title>
 
     <script>
         document.documentElement.classList.remove('no-js');
